@@ -14,8 +14,8 @@
 <p>
   <img src="https://img.shields.io/badge/TypeScript-043024?style=flat&logo=typescript&logoColor=F3F4F6" alt="TypeScript" height="40"/>
   <img src="https://img.shields.io/badge/JavaScript-043024?style=flat&logo=javascript&logoColor=F3F4F6" alt="JavaScript" height="40"/>
-  <img src="https://img.shields.io/badge/CSS-043024?style=flat&logo=css3&logoColor=F3F4F6" alt="CSS" height="40"/>
-  <img src="https://img.shields.io/badge/C++-043024?style=flat&logo=cpp&logoColor=F3F4F6" alt="C++" height="40"/>
+  <img src="https://img.shields.io/badge/CSS-043024?style=flat&logo=csswizardry&logoColor=F3F4F6" alt="CSS" height="40"/>
+  <img src="https://img.shields.io/badge/C++-043024?style=flat&logo=cplusplus&logoColor=F3F4F6" alt="C++" height="40"/>
   <img src="https://img.shields.io/badge/C-043024?style=flat&logo=c&logoColor=F3F4F6" alt="C" height="40"/>
-  <img src="https://img.shields.io/badge/Other-F3F4F6?style=flat&logo=codeforces&logoColor=043024" alt="Other" height="40"/>
+  <img src="https://img.shields.io/badge/Other-0d1117?style=flat&logo=codeforces&logoColor=ffffff" alt="Other" height="40"/>
 </p>
