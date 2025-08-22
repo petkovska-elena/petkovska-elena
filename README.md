@@ -1,5 +1,3 @@
----
-
 ## Explore Other Profiles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-043024?style=flat&logo=linkedin&logoColor=F3F4F6)](https://www.linkedin.com/in/petkovska-elena/)
