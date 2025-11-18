@@ -19,6 +19,3 @@
   <img src="https://img.shields.io/badge/C-043024?style=flat&logo=c&logoColor=F3F4F6" alt="C" height="40"/>
   <img src="https://img.shields.io/badge/Other-0d1117?style=flat&logo=codeforces&logoColor=ffffff" alt="Other" height="40"/>
 </p>
-
-
-![Profile view counter](https://komarev.com/ghpvc/?username=petkovska-elena&color=blue)
